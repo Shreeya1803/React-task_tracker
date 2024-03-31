@@ -1,0 +1,19 @@
+/* Sidebar.css */
+.sidebar-container {
+    background-color: #f8f9fa;
+    height: 100vh;
+    padding-top: 1rem;
+}
+
+.main-content {
+    padding: 1rem;
+}
+
+.sidebar .list-group-item {
+    border: none;
+    cursor: pointer;
+}
+
+.sidebar .list-group-item:hover {
+    background-color: #e9ecef;
+}
